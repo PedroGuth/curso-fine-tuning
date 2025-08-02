@@ -1,0 +1,122 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Qual é o melhor iPhone para fotografia?"
+      },
+      {
+        "role": "assistant",
+        "content": "O iPhone 15 Pro Max é o melhor para fotografia, com câmera de 48MP, zoom óptico de 5x e recursos avançados de fotografia computacional."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Quanto custa o iPhone 15?"
+      },
+      {
+        "role": "assistant",
+        "content": "O iPhone 15 custa R$ 6.999 no Brasil. Está disponível em 128GB, 256GB e 512GB."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Qual é a diferença entre iPhone 15 e iPhone 15 Pro?"
+      },
+      {
+        "role": "assistant",
+        "content": "O iPhone 15 Pro tem chip A17 Pro, câmera tripla, tela ProMotion 120Hz, acabamento em titânio e custa R$ 8.999. O iPhone 15 tem chip A16, câmera dupla, tela normal, acabamento em alumínio e custa R$ 6.999."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "O iPhone 15 tem carregamento sem fio?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sim, o iPhone 15 suporta carregamento sem fio MagSafe e Qi. Você pode usar carregadores MagSafe da Apple ou qualquer carregador Qi compatível."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Qual iPhone é melhor para jogos?"
+      },
+      {
+        "role": "assistant",
+        "content": "O iPhone 15 Pro e Pro Max são melhores para jogos, com chip A17 Pro mais potente e tela ProMotion de 120Hz que oferece jogabilidade mais fluida."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Quantas cores tem o iPhone 15?"
+      },
+      {
+        "role": "assistant",
+        "content": "O iPhone 15 está disponível em 5 cores: Preto, Azul, Verde, Rosa e Amarelo."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Qual é a capacidade máxima do iPhone 15 Pro Max?"
+      },
+      {
+        "role": "assistant",
+        "content": "O iPhone 15 Pro Max está disponível em 256GB, 512GB e 1TB de armazenamento."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "O iPhone 15 Pro Max tem zoom óptico?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sim, o iPhone 15 Pro Max tem zoom óptico de 5x, o maior da linha iPhone 15."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Qual iPhone tem a maior tela?"
+      },
+      {
+        "role": "assistant",
+        "content": "O iPhone 15 Pro Max tem a maior tela da linha, com 6.7 polegadas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Qual é o iPhone mais barato?"
+      },
+      {
+        "role": "assistant",
+        "content": "O iPhone 15 é o mais barato da linha, custando R$ 6.999."
+      }
+    ]
+  }
+] 

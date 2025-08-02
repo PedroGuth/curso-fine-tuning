@@ -1,0 +1,122 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Analise o sentimento deste comentário: 'Adorei o produto, chegou rápido e funciona perfeitamente!'"
+      },
+      {
+        "role": "assistant",
+        "content": "SENTIMENTO: POSITIVO\n\nAnálise:\n- 'Adorei' indica satisfação extrema\n- 'chegou rápido' mostra satisfação com o serviço\n- 'funciona perfeitamente' demonstra que o produto atendeu às expectativas\n\nPontuação: 9/10 (Muito positivo)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Analise o sentimento deste comentário: 'Produto horrível, não funciona nada do que foi prometido. Péssimo atendimento.'"
+      },
+      {
+        "role": "assistant",
+        "content": "SENTIMENTO: NEGATIVO\n\nAnálise:\n- 'horrível' é uma palavra fortemente negativa\n- 'não funciona nada' indica frustração extrema\n- 'péssimo atendimento' mostra insatisfação com o serviço\n\nPontuação: 1/10 (Muito negativo)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Analise o sentimento deste comentário: 'O produto é ok, mas poderia ser melhor. Preço justo.'"
+      },
+      {
+        "role": "assistant",
+        "content": "SENTIMENTO: NEUTRO\n\nAnálise:\n- 'ok' indica satisfação moderada\n- 'poderia ser melhor' mostra expectativas não totalmente atendidas\n- 'preço justo' é um aspecto positivo\n\nPontuação: 5/10 (Neutro)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Analise o sentimento deste comentário: 'Excelente produto! Superou todas as minhas expectativas. Recomendo para todos!'"
+      },
+      {
+        "role": "assistant",
+        "content": "SENTIMENTO: MUITO POSITIVO\n\nAnálise:\n- 'Excelente' é uma palavra muito positiva\n- 'Superou todas as expectativas' indica satisfação extrema\n- 'Recomendo para todos' mostra confiança total no produto\n\nPontuação: 10/10 (Extremamente positivo)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Analise o sentimento deste comentário: 'Produto medíocre, não vale o preço. Atendimento demorado.'"
+      },
+      {
+        "role": "assistant",
+        "content": "SENTIMENTO: NEGATIVO\n\nAnálise:\n- 'medíocre' indica qualidade abaixo do esperado\n- 'não vale o preço' mostra insatisfação com custo-benefício\n- 'atendimento demorado' é uma crítica ao serviço\n\nPontuação: 3/10 (Negativo)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Analise o sentimento deste comentário: 'Produto bom, entrega no prazo. Nada excepcional.'"
+      },
+      {
+        "role": "assistant",
+        "content": "SENTIMENTO: LEVEMENTE POSITIVO\n\nAnálise:\n- 'bom' indica satisfação moderada\n- 'entrega no prazo' é um aspecto positivo\n- 'nada excepcional' limita o entusiasmo\n\nPontuação: 6/10 (Levemente positivo)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Analise o sentimento deste comentário: 'Pior compra da minha vida! Produto quebrou no primeiro dia.'"
+      },
+      {
+        "role": "assistant",
+        "content": "SENTIMENTO: EXTREMAMENTE NEGATIVO\n\nAnálise:\n- 'Pior compra da minha vida' é uma expressão extremamente negativa\n- 'quebrou no primeiro dia' indica falha total do produto\n- Expressão de arrependimento total\n\nPontuação: 0/10 (Extremamente negativo)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Analise o sentimento deste comentário: 'Produto satisfatório, qualidade aceitável para o preço.'"
+      },
+      {
+        "role": "assistant",
+        "content": "SENTIMENTO: POSITIVO\n\nAnálise:\n- 'satisfatório' indica que atendeu às expectativas\n- 'qualidade aceitável' é uma avaliação positiva\n- 'para o preço' mostra que o custo-benefício está adequado\n\nPontuação: 7/10 (Positivo)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Analise o sentimento deste comentário: 'Não gostei muito, mas também não odiei. Produto normal.'"
+      },
+      {
+        "role": "assistant",
+        "content": "SENTIMENTO: NEUTRO\n\nAnálise:\n- 'Não gostei muito' indica insatisfação leve\n- 'também não odiei' equilibra o sentimento\n- 'produto normal' é uma avaliação neutra\n\nPontuação: 5/10 (Neutro)"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Analise o sentimento deste comentário: 'Incrível! Melhor produto que já comprei. Valeu cada centavo!'"
+      },
+      {
+        "role": "assistant",
+        "content": "SENTIMENTO: EXTREMAMENTE POSITIVO\n\nAnálise:\n- 'Incrível' é uma palavra muito positiva\n- 'Melhor produto que já comprei' indica satisfação máxima\n- 'Valeu cada centavo' mostra que o investimento foi totalmente justificado\n\nPontuação: 10/10 (Extremamente positivo)"
+      }
+    ]
+  }
+] 
